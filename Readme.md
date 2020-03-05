@@ -1,6 +1,6 @@
 ## Applied Cryptography problem statenents and solution code
 
-#### MIMA-2DES
+#### MITM-2DES
 
 Conecpt : 2 DES and Meet in the middle attack
 Given : 2DES_k1,k2(x)=DES(DES(x,k1),k2), where k1 and k2 are two random keys of length 56-bit each and x is the input plaintext of 64-bit.
